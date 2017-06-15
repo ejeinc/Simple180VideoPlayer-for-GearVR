@@ -1,0 +1,5 @@
+<scene class="com.eje_c.simple360videoplayer.player.PlayerScene">
+    <entity
+        geometry="primitive: globe"
+        id="@+id/player" />
+</scene>

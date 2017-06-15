@@ -1,0 +1,13 @@
+<scene class="com.eje_c.simple360videoplayer.waiting.WaitingScene">
+
+    <view
+        position="0 0 -10"
+        src="@layout/focus" />
+
+    <entity
+        geometry="primitive: plane; width: 1.2; height: 1.2;"
+        id="@+id/countdown"
+        position="0 -1.5 -9"
+        surface="renderer: com.eje_c.simple360videoplayer.waiting.CountDownRenderer" />
+
+</scene>

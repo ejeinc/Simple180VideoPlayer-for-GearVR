@@ -1,0 +1,7 @@
+<scene class="com.eje_c.simple360videoplayer.end.EndScene">
+
+    <view
+        position="0 0 -10"
+        src="@layout/detach_gear_vr" />
+
+</scene>

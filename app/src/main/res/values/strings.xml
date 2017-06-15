@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple360VideoPlayer</string>
+    <string name="adjust_focus">ピントを合わせてください。\nPlease adjust the focus.</string>
+    <string name="take_off_gearvr">Gear VRを外してください。\nPlease take off the GearVR headset.</string>
+</resources>
